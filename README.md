@@ -37,6 +37,9 @@ Deploying
 ### HOMEPAGE:
 
 ![1](https://user-images.githubusercontent.com/89390696/190322114-fa0bbbbe-a637-4879-966c-82f34cbe1650.png)
+![image](https://user-images.githubusercontent.com/93968656/199662366-4f7603e8-ce12-4651-abec-af71a8ffa54d.png)
+![image](https://user-images.githubusercontent.com/93968656/199662424-c2594d27-419f-4541-b82e-be0c32970f29.png)
+
 
 
 
