@@ -36,7 +36,6 @@ Deploying
 
 ### HOMEPAGE:
 
-![1](https://user-images.githubusercontent.com/89390696/190322114-fa0bbbbe-a637-4879-966c-82f34cbe1650.png)
 ![image](https://user-images.githubusercontent.com/93968656/199662366-4f7603e8-ce12-4651-abec-af71a8ffa54d.png)
 ![image](https://user-images.githubusercontent.com/93968656/199662424-c2594d27-419f-4541-b82e-be0c32970f29.png)
 
@@ -45,6 +44,10 @@ Deploying
 
 
 ### PREDICTION FORM:
+
+![image](https://user-images.githubusercontent.com/93968656/199662613-9870a796-4ab8-4e43-bc89-2687e3f9b972.png)
+![image](https://user-images.githubusercontent.com/93968656/199662713-8c773c66-de52-4094-9b4b-f5157cb042ed.png)
+
 
 ![Predict](https://user-images.githubusercontent.com/89390696/190322271-4fe5a0b1-f5cb-4224-9f6f-7f97f7e7dc3e.png)
 
