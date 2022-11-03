@@ -52,22 +52,19 @@ Deploying
 
 ## Authors
 
-- [@VAMSHI CHOWDARY](https://www.github.com/Kollipati)
+- [@Adil Anwar](https://adilalpha.github.io)
 
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/vamshikollipati)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-anwar-1b480b106)
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at vamshikollipati@gmail.com
+If you have any feedback, please reach out to us at adilalpha2@gmail.com
 
 # Thanks For Visiting :) 
 
