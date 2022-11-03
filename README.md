@@ -45,17 +45,15 @@ Deploying
 
 ### PREDICTION FORM:
 
-![image](https://user-images.githubusercontent.com/93968656/199662613-9870a796-4ab8-4e43-bc89-2687e3f9b972.png)
-![image](https://user-images.githubusercontent.com/93968656/199662713-8c773c66-de52-4094-9b4b-f5157cb042ed.png)
 
-
-![Predict](https://user-images.githubusercontent.com/89390696/190322271-4fe5a0b1-f5cb-4224-9f6f-7f97f7e7dc3e.png)
+![190322271-4fe5a0b1-f5cb-4224-9f6f-7f97f7e7dc3e](https://user-images.githubusercontent.com/93968656/199663067-8a92dd3c-a352-4b8c-9c98-d2b578f9d842.png)
 
 
 
 ### RESULT PAGE:
 
-![Result](https://user-images.githubusercontent.com/89390696/190322242-1801181c-31bb-4bae-a8a1-52830eaf9a53.png)
+![image](https://user-images.githubusercontent.com/93968656/199663150-e8019eab-13ca-40ef-a07e-df4ab8a4859d.png)
+
 
 ## Authors
 
