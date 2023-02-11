@@ -6,7 +6,7 @@ Thyroid disease is a common cause of medical diagnosis and prediction, with an o
 
 
 You can reach the application here : 
-### LINK TO WEB APP
+### https://thyroidpredictionapp.azurewebsites.net/
 
 
 ## Steps to involved in model building
